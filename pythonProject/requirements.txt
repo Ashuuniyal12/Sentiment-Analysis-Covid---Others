@@ -1,5 +1,7 @@
 ﻿numpy
 pandas
 matplotlib
+sklearn
+seaborn
 streamlit==1.5.1
 opencv-python-headless
