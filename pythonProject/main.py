@@ -80,6 +80,6 @@ if st.button("Graph"):
     st.title("RESULT")
     st.pyplot(fig)
     st.pyplot(sc)
-   # st.pyplot(f)
+   # streamlit run C:/Users/adity/PycharmProjects/pythonProject/main.py st.pyplot(f)
 
 st.subheader("Developer: Aditya Sahai")
